@@ -58,7 +58,7 @@ An interactive and visually compelling Power BI dashboard designed to analyze th
 
 ## 📸 Screenshots
 
-[Covid-19 Dashboard]([Screenshot (8)](https://github.com/user-attachments/assets/b00affbd-4f9a-4795-afba-8d63c174bc8c))
+[Covid-19 Dashboard](https://github.com/user-attachments/assets/b00affbd-4f9a-4795-afba-8d63c174bc8c)
 
 ## 📽️ Demo Video
 
